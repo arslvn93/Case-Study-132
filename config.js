@@ -1,12 +1,12 @@
 const config = {
   "globals": {
-    "companyName": "Arslan",
+    "companyName": "iStreet Realty Group",
     "mainCTAButtonText": "Book A Discovery Call",
     "primaryColor": "#e3c379",
     "accentColor": "#d9c6a2",
     "agents": [
       {
-        "name": "Rick Roccasalva",
+        "name": "Arslan Ahmed",
         "imageSrc": "https://images.unsplash.com/photo-1557862921-37829c790f19?fit=crop&w=100&q=80",
         "contactDetails": [
           {
