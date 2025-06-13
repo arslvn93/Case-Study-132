@@ -1,18 +1,12 @@
-// =================================================================================================
-// PAGE CONFIGURATION OBJECT
-// This file is the single source of truth for all dynamic content on the case study page.
-// The renderer.js script consumes this object to construct the page's HTML.
-// Modifying values in this file directly changes the content rendered in the browser.
-// =_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_
 const config = {
   "globals": {
-    "companyName": "iStreet Realty Group",
+    "companyName": "Arslan ",
     "mainCTAButtonText": "Book A Discovery Call",
     "primaryColor": "#e3c379",
     "accentColor": "#d9c6a2",
     "agents": [
       {
-        "name": "Rick Roccasalva",
+        "name": "Arslan Ahmed",
         "imageSrc": "https://images.unsplash.com/photo-1557862921-37829c790f19?fit=crop&w=100&q=80",
         "contactDetails": [
           {
@@ -160,10 +154,10 @@ const config = {
       "text": "Privacy Policy",
       "href": "#"
     }
-  }
+  },
+  "githubRepo": "https://github.com/arslvn93/Case-Study-132"
 };
 
-// Export for Node.js environment (if applicable) or set for browser
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = config;
 } else if (typeof window !== 'undefined') {
