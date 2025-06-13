@@ -1,12 +1,12 @@
 const config = {
   "globals": {
-    "companyName": "Arslan ",
+    "companyName": "Arslan",
     "mainCTAButtonText": "Book A Discovery Call",
     "primaryColor": "#e3c379",
     "accentColor": "#d9c6a2",
     "agents": [
       {
-        "name": "Arslan Ahmed",
+        "name": "Rick Roccasalva",
         "imageSrc": "https://images.unsplash.com/photo-1557862921-37829c790f19?fit=crop&w=100&q=80",
         "contactDetails": [
           {
